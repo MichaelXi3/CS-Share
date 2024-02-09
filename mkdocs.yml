@@ -1,0 +1,11 @@
+site_name: 一些有用的CS资源 
+site_url: https://example.com/
+site_author: MichaelXi
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme: 
+  name: material
+  language: zh
